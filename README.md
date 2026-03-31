@@ -80,7 +80,7 @@
 <h3> Messaging broker </h3>
 
 ![Kafka](https://img.shields.io/badge/Kafka-%23121011.svg?logo=kafka&logoColor=white&style=for-the-badge) 
-![Rabbitmp](https://img.shields.io/badge/Rabbitmp-%23181717.svg?logo=rabbitmp&logoColor=white&style=for-the-badge)
+![Rabbitmq](https://img.shields.io/badge/Rabbitmq-%23181717.svg?logo=rabbitmq&logoColor=white&style=for-the-badge)
 
 
 
