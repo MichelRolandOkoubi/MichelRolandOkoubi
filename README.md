@@ -33,7 +33,7 @@
 <h3> Mobile </h3>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37&style=for-the-badge) 
+
 
 <h3> Backend </h3>
 
