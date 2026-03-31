@@ -63,6 +63,14 @@
 ![Json](https://img.shields.io/badge/json-383838?style=for-the-badge&logo=json&logoColor=white)
 
 
+<h3> Architecture distribuée </h3>
+
+![Domain-Driven Design](https://img.shields.io/badge/Domain-Driven Design-b02c9e?style=for-the-badge&logo=DDD&logoColor=white)
+![Graphql](https://img.shields.io/badge/graphql-b02c9e?style=for-the-badge&logo=graphql&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/EventSourcing-b02c9e?style=for-the-badge&logo=EventSourcing&logoColor=white)
+![Microservices Event-Driven](https://img.shields.io/badge/microservice-b02c9e?style=for-the-badge&logo=microservices&logoColor=white)
+![Request-Driven (RESTful)](https://img.shields.io/badge/RequestDriven-b02c9e?style=for-the-badge&logo=Request-Driven&logoColor=white)
+
 
 
 
