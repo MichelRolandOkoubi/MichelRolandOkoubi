@@ -76,6 +76,14 @@
 ![Docker](https://img.shields.io/badge/Docker-%23121011.svg?logo=docker&logoColor=white&style=for-the-badge) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23181717.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 
+
+<h3> Messaging broker </h3>
+
+![Kafka](https://img.shields.io/badge/Kafka-%23121011.svg?logo=kafka&logoColor=white&style=for-the-badge) 
+![Rabbitmp](https://img.shields.io/badge/Rabbitmp-%23181717.svg?logo=rabbitmp&logoColor=white&style=for-the-badge)
+
+
+
 <h3> Version Control </h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) 
