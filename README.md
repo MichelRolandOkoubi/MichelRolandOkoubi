@@ -65,11 +65,11 @@
 
 <h3> Architecture distribuée </h3>
 
-![Domain-Driven Design](https://img.shields.io/badge/Domain-Driven-Design-000000?style=for-the-badge&logo=DDD&logoColor=white)
-![Graphql](https://img.shields.io/badge/graphql-000000?style=for-the-badge&logo=graphql&logoColor=white)
-![Event Sourcing](https://img.shields.io/badge/EventSourcing-000000?style=for-the-badge&logo=EventSourcing&logoColor=white)
-![Microservices Event-Driven](https://img.shields.io/badge/microservice-000000?style=for-the-badge&logo=microservices&logoColor=white)
-![Request-Driven (RESTful)](https://img.shields.io/badge/RequestDriven-000000?style=for-the-badge&logo=Request-Driven&logoColor=white)
+![Domain-Driven Design](https://img.shields.io/badge/Domain_Driven_Design-000000?style=for-the-badge&logo=DDD&logoColor=white)
+![Command Query Responsibility Segregation](https://img.shields.io/badge/CQRS-000000?style=for-the-badge&logo=cqrs&logoColor=white)
+![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-000000?style=for-the-badge&logo=EventSourcing&logoColor=white)
+![Microservices Event-Driven](https://img.shields.io/badge/Microservice-000000?style=for-the-badge&logo=microservices&logoColor=white)
+![Request-Driven (RESTful)](https://img.shields.io/badge/Request_Driven-000000?style=for-the-badge&logo=Request-Driven&logoColor=white)
 
 
 
