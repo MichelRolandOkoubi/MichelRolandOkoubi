@@ -1,6 +1,7 @@
-<center><h1>Roland Okoubi</h1></center>
+<center><h1>Michel Okoubi</h1></center>
 
-<p>👋 Hi, I’m Michel Roland Okoubi Lead Senior Software Engineer and Fintech Architech</p>
+<p>👋 Hi, I’m Michel Okoubi Lead Senior Software Engineer and Fintech Architech</p>
+
 
 - 📫 How to reach me ...
 
