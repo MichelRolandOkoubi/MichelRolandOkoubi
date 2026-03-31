@@ -71,8 +71,10 @@
 ![Microservices Event-Driven](https://img.shields.io/badge/Microservice-000000?style=for-the-badge&logo=microservices&logoColor=white)
 ![Request-Driven (RESTful)](https://img.shields.io/badge/Request_Driven-000000?style=for-the-badge&logo=Request-Driven&logoColor=white)
 
+<h3> Infra </h3>
 
-
+![Docker](https://img.shields.io/badge/Docker-%23121011.svg?logo=docker&logoColor=white&style=for-the-badge) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23181717.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 <h3> Version Control </h3>
 
