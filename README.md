@@ -74,7 +74,7 @@
 
 <h3> Infra </h3>
 
-![Docker](https://img.shields.io/badge/Docker-%23121011.svg?logo=docker&logoColor=white&style=for-the-badge) 
+![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23181717.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 
@@ -111,7 +111,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-a11b03?style=for-the-badge&logo=apache&logoColor=white)
 ![Haproxy](https://img.shields.io/badge/Haproxy-%23000.svg?logo=haproxy&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
+
 
 
 <!--
