@@ -11,9 +11,9 @@
 
 <h2>✔️ Senior Software Engineer </h2> 
 
-![RolandWise GitHub](https://github-readme-stats.vercel.app/api?username=RolandWise&show_icons=true&theme=dark&card_width=446)
+![MichelRolandOkoubi GitHub](https://github-readme-stats.vercel.app/api?username=MichelRolandOkoubi&show_icons=true&theme=dark&card_width=446)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RolandWise&layout=compact&theme=dark&card_width=446)](https://github.com/RolandWise/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelRolandOkoubi&layout=compact&theme=dark&card_width=446)](https://github.com/MichelRolandOkoubi/github-readme-stats)
 
 
 <h2>💻 Technologie </h2>
