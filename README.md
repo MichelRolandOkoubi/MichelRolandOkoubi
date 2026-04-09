@@ -11,7 +11,7 @@
 
 
 <h2>✔️ Senior Software Engineer </h2> 
-
+https://githubcard.com/MichelRolandOkoubi.svg?d=5ofXY2pr
 ![MichelRolandOkoubi GitHub](https://github-readme-stats.vercel.app/api?username=MichelRolandOkoubi&show_icons=true&theme=dark&card_width=446)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelRolandOkoubi&layout=compact&theme=dark&card_width=446)](https://github.com/MichelRolandOkoubi/github-readme-stats)
