@@ -50,7 +50,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-000000?logo=solidity&logoColor=white&style=for-the-badge) 
-![Tec](./assets/icons/security.svg)
+
 
 
 <h3> Webservice </h3>
@@ -271,7 +271,7 @@ OS
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-
+![Tec](./assets/icons/security.svg)
 
 <h3> Framework & Libraries </h3>
 ![Tec](./assets/icons/vue.svg)
