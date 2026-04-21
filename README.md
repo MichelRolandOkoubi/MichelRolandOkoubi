@@ -42,7 +42,7 @@
 ![Java](https://img.shields.io/badge/java-b33232?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%2319191c.svg?logo=Quarkus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C#-000000?logo=.net&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/.NET-000000?logo=dotnet&logoColor=white&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-%23000.svg?logo=rust&logoColor=white&style=for-the-badge)
