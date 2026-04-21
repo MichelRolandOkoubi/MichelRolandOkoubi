@@ -123,7 +123,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23181717.svg?logo=kubernetes&logoColor=white&style=for-the-badge)
-
+![Terraform](https://img.shields.io/badge/Terraform-%23181717.svg?logo=terraform&logoColor=white&style=for-the-badge)
 
 <h3> Messaging broker </h3>
 
