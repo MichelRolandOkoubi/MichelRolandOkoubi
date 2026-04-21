@@ -148,10 +148,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-e3860b?style=for-the-badge&logo=firebase&logoColor=white)
 
 
-<h3> Fintech technologie </h3>
 
-![SEPA](https://img.icons8.com/fluency/32/000000/sepa.png)
-![SWIFT](https://img.icons8.com/color/32/000000/swift-payment-system.png)
 
 
 <h2>💳 Fintech technologie</h2>
@@ -297,4 +294,8 @@ OS
 <!---
 RolandWise/RolandWise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<h3> Fintech technologie </h3>
+
+![SEPA](https://img.icons8.com/fluency/32/000000/sepa.png)
+![SWIFT](https://img.icons8.com/color/32/000000/swift-payment-system.png)
 --->
