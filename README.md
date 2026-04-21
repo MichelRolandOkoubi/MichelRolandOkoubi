@@ -73,6 +73,52 @@
 ![Microservices Event-Driven](https://img.shields.io/badge/Microservice-000000?style=for-the-badge&logo=microservices&logoColor=white)
 ![Request-Driven (RESTful)](https://img.shields.io/badge/Request_Driven-000000?style=for-the-badge&logo=Request-Driven&logoColor=white)
 
+<h2>🤖 Artificial Intelligence</h2>
+
+<h3>LLM & Neural Networks</h3>
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6d28d9?style=for-the-badge&logo=llama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A76A?style=for-the-badge&logo=anthropic&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+<h3>AI Agents & Orchestration</h3>
+
+![CrewAI](https://img.shields.io/badge/CrewAI-F05033?style=for-the-badge&logo=crewai&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white)
+
+<h3>Vector Databases</h3>
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00B373?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+
+<h3>Core AI Competencies</h3>
+
+| Domaine | Détail |
+|---|---|
+| **LLM from scratch** | Transformer, attention mechanism, tokenizer, pre-training, RLHF |
+| **Neural Networks** | CNN, RNN, LSTM, GAN, Diffusion Models |
+| **Agentic Systems** | Multi-agent orchestration, tool use, memory, ReAct, Chain-of-Thought |
+| **RAG Pipelines** | Embedding, chunking, retrieval, hybrid search, re-ranking |
+| **Fine-tuning** | LoRA, QLoRA, DPO, RLHF, SFT — domain adaptation |
+| **AI in Fintech** | Fraud detection, credit scoring, KYC automation, AI compliance |
+
+<h3>Models</h3>
+
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3.5-D4A76A?style=for-the-badge&logo=anthropic&logoColor=black)
+![LLaMA3](https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_7B-FF6B35?style=for-the-badge&logo=mistral&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 <h3> Infra </h3>
 
 ![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
