@@ -153,6 +153,77 @@
 ![SEPA](https://img.icons8.com/fluency/32/000000/sepa.png)
 ![SWIFT](https://img.icons8.com/color/32/000000/swift-payment-system.png)
 
+
+<h2>💳 Fintech technologie</h2>
+
+<h3>Payment networks & standards</h3>
+
+![SWIFT](https://img.shields.io/badge/SWIFT_gpi-003087?style=for-the-badge&logo=swift&logoColor=white)
+![SEPA](https://img.shields.io/badge/SEPA_SCT%2FSDD-003087?style=for-the-badge&logo=sepa&logoColor=white)
+![ISO20022](https://img.shields.io/badge/ISO_20022-1a1a2e?style=for-the-badge&logoColor=white)
+![ISO8583](https://img.shields.io/badge/ISO_8583-1c2a1c?style=for-the-badge&logoColor=white)
+![TARGET2](https://img.shields.io/badge/TARGET2-000000?style=for-the-badge&logoColor=white)
+![ACH](https://img.shields.io/badge/ACH-1c1c1c?style=for-the-badge&logoColor=white)
+![RTGS](https://img.shields.io/badge/RTGS-000000?style=for-the-badge&logoColor=white)
+![FPS](https://img.shields.io/badge/Faster_Payments-cc0000?style=for-the-badge&logoColor=white)
+
+<h3>Card & acquiring</h3>
+
+![Visa](https://img.shields.io/badge/Visa%2FMastercard-1a1f71?style=for-the-badge&logo=visa&logoColor=white)
+![EMV](https://img.shields.io/badge/EMV_3DS-003087?style=for-the-badge&logoColor=white)
+![PCI-DSS](https://img.shields.io/badge/PCI--DSS-1a1a2e?style=for-the-badge&logoColor=white)
+![Tokenisation](https://img.shields.io/badge/Tokenisation-1c2a1c?style=for-the-badge&logoColor=white)
+![ApplePay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=apple&logoColor=white)
+![GooglePay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Adyen](https://img.shields.io/badge/Adyen-0ABF53?style=for-the-badge&logo=adyen&logoColor=white)
+
+<h3>Open banking & APIs</h3>
+
+![PSD2](https://img.shields.io/badge/PSD2%2FPSD3-1a1a2e?style=for-the-badge&logoColor=white)
+![OpenBanking](https://img.shields.io/badge/Open_Banking_API-000000?style=for-the-badge&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2%2FFAPI-1c2a1c?style=for-the-badge&logoColor=white)
+![BerlinGroup](https://img.shields.io/badge/Berlin_Group-1c1a00?style=for-the-badge&logoColor=white)
+
+<h3>Crypto & blockchain</h3>
+
+![Ethereum](https://img.shields.io/badge/Ethereum%2FEVM-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi_Protocols-0c1a0c?style=for-the-badge&logoColor=white)
+![CBDC](https://img.shields.io/badge/CBDC-1c1a00?style=for-the-badge&logoColor=white)
+![XRP](https://img.shields.io/badge/XRP_Ledger-0085C0?style=for-the-badge&logo=xrp&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js%2FEthers.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+<h3>Compliance & sécurité</h3>
+
+![KYC](https://img.shields.io/badge/KYC%2FAML-1a1a2e?style=for-the-badge&logoColor=white)
+![GDPR](https://img.shields.io/badge/GDPR-1c1c1c?style=for-the-badge&logoColor=white)
+![DORA](https://img.shields.io/badge/DORA-cc0000?style=for-the-badge&logoColor=white)
+![MiCA](https://img.shields.io/badge/MiCA-0f1923?style=for-the-badge&logoColor=white)
+![FATF](https://img.shields.io/badge/FATF%2FGAFI-1c2a1c?style=for-the-badge&logoColor=white)
+![SOC2](https://img.shields.io/badge/SOC_2-1c1a00?style=for-the-badge&logoColor=white)
+![eIDAS](https://img.shields.io/badge/eIDAS-1a0f1a?style=for-the-badge&logoColor=white)
+
+<h3>Core banking & outils</h3>
+
+![CoreBanking](https://img.shields.io/badge/Core_Banking_System-1c1c1c?style=for-the-badge&logoColor=white)
+![Temenos](https://img.shields.io/badge/Temenos-003087?style=for-the-badge&logoColor=white)
+![Mambu](https://img.shields.io/badge/Mambu-1c1a00?style=for-the-badge&logoColor=white)
+![Ledger](https://img.shields.io/badge/Double--entry_Ledger-0f1923?style=for-the-badge&logoColor=white)
+![Fraud](https://img.shields.io/badge/Fraud_Detection-1c2a1c?style=for-the-badge&logoColor=white)
+![Credit](https://img.shields.io/badge/Credit_Scoring-1a0f1a?style=for-the-badge&logoColor=white)
+
+<h3>Compétences métier</h3>
+
+| Domaine | Détail |
+|---|---|
+| **Paiements transfrontaliers** | Corridors, FX, conversion de devises, SWIFT gpi tracking |
+| **Wallets & monnaie électronique** | E-money institution, float management, ledger temps réel |
+| **Gestion du risque** | Scoring, limits, exposure, circuit breakers |
+| **Payment gateway** | Routing, retry, idempotency, webhook, settlement |
+| **Mobile money (Afrique)** | Orange Money, MTN MoMo, Wave — APIs & interopérabilité |
+| **Reporting réglementaire** | COREP, FINREP, DSP2, déclarations BCEAO |
+
 <h3> Web Server </h3>
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
