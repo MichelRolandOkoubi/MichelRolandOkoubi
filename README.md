@@ -223,6 +223,87 @@
 | **Mobile money (Afrique)** | Orange Money, MTN MoMo, Wave — APIs & interopérabilité |
 | **Reporting réglementaire** | COREP, FINREP, DSP2, déclarations BCEAO |
 
+
+
+
+
+
+
+
+<h2>☁️ Cloud Engineer</h2>
+
+<h3>Cloud providers</h3>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OVH](https://img.shields.io/badge/OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white)
+![Scaleway](https://img.shields.io/badge/Scaleway-4F0599?style=for-the-badge&logo=scaleway&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+
+<h3>AWS — services clés</h3>
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black)
+![ECS](https://img.shields.io/badge/ECS%2FEKS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=black)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=black)
+![S3](https://img.shields.io/badge/S3%2FGlacier-FF9900?style=for-the-badge&logo=amazons3&logoColor=black)
+![RDS](https://img.shields.io/badge/RDS%2FAurora-FF9900?style=for-the-badge&logo=amazonrds&logoColor=black)
+![APIGateway](https://img.shields.io/badge/API_Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=black)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![SQS](https://img.shields.io/badge/SQS%2FSNS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=black)
+![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Route53](https://img.shields.io/badge/Route_53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=black)
+
+<h3>IaC & DevOps</h3>
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![FluxCD](https://img.shields.io/badge/Flux_CD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
+![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)
+
+<h3>CI/CD</h3>
+
+![GitHubActions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLabCI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
+
+<h3>Observabilité & monitoring</h3>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+<h3>Sécurité cloud</h3>
+
+![ZeroTrust](https://img.shields.io/badge/Zero_Trust-1a1a2e?style=for-the-badge&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![AWSWAF](https://img.shields.io/badge/AWS_WAF%2FShield-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![OPA](https://img.shields.io/badge/OPA%2FKyverno-3d9970?style=for-the-badge&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy%2FSnyk-0366D6?style=for-the-badge&logo=snyk&logoColor=white)
+![CertManager](https://img.shields.io/badge/Cert--manager-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<h3>Compétences architecturales</h3>
+
+| Domaine | Détail |
+|---|---|
+| **Multi-cloud & hybrid** | AWS + Azure + GCP, interconnexion, résilience cross-région |
+| **Serverless** | Lambda, Cloud Functions, event-driven, cold start optimization |
+| **GitOps** | ArgoCD, Flux, déploiement déclaratif, drift detection |
+| **FinOps** | Cost optimization, reserved instances, tagging strategy, budgets |
+| **Service mesh** | Istio, Linkerd, mTLS, traffic management, observabilité |
+| **Disaster recovery** | RTO/RPO, backup stratégie, failover automatique, chaos engineering |
+
+
 <h3> Web Server </h3>
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
