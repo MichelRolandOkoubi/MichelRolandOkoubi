@@ -60,10 +60,13 @@
 ![gRPC](https://img.shields.io/badge/grpc-%23F05033.svg?style=for-the-badge&logo=soap&logoColor=white)
 ![Soap](https://img.shields.io/badge/soap-%23F05033.svg?style=for-the-badge&logo=soap&logoColor=white)
 
-<h3> Data Structure </h3>
+<h3> Format de Données </h3>
 
 ![Json](https://img.shields.io/badge/json-383838?style=for-the-badge&logo=json&logoColor=white)
-
+![Xml](https://img.shields.io/badge/xml-383838?style=for-the-badge&logo=xml&logoColor=white)
+![Csv](https://img.shields.io/badge/csv-383838?style=for-the-badge&logo=csv&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-383838?style=for-the-badge&logo=markdown&logoColor=white)
+![Toon](https://img.shields.io/badge/toon-383838?style=for-the-badge&logo=toon&logoColor=white)
 
 <h3> Architecture distribuée </h3>
 
