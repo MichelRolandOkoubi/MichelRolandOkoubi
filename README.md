@@ -115,8 +115,8 @@
 
 <h3>Models</h3>
 
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_3.5-D4A76A?style=for-the-badge&logo=anthropic&logoColor=black)
+![GPT-5.5](https://img.shields.io/badge/GPT--5.5-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Opus_4.8-D4A76A?style=for-the-badge&logo=anthropic&logoColor=black)
 ![LLaMA3](https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Mistral](https://img.shields.io/badge/Mistral_7B-FF6B35?style=for-the-badge&logo=mistral&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
